@@ -1,4 +1,4 @@
-![Copyright ev0lve Digital](https://img.shields.io/badge/Copyright-ev0lve%20Digital-blue) ![GitHub License](https://img.shields.io/github/license/HvH-gg/CSGO-Essentials) ![Issues](https://img.shields.io/github/issues/HvH-gg/CSGO-Essentials) ![Downloads](https://img.shields.io/github/downloads/HvH-gg/CSGO-Essentials/total) ![Stars](https://img.shields.io/github/stars/HvH-gg/CSGO-Essentials)
+![Copyright ev0lve Digital](https://img.shields.io/badge/Copyright-ev0lve%20Digital-blue) ![GitHub License](https://img.shields.io/github/license/HvH-gg/CSGO-Essentials) ![Issues](https://img.shields.io/github/issues/HvH-gg/CSGO-Essentials) ![Stars](https://img.shields.io/github/stars/HvH-gg/CSGO-Essentials)
 
 # HvH.gg CS:GO Essentials (1.0.0)
 
