@@ -1,6 +1,6 @@
 ![Copyright ev0lve Digital](https://img.shields.io/badge/Copyright-ev0lve%20Digital-blue) ![GitHub License](https://img.shields.io/github/license/HvH-gg/CSGO-Essentials) ![Issues](https://img.shields.io/github/issues/HvH-gg/CSGO-Essentials) ![Stars](https://img.shields.io/github/stars/HvH-gg/CSGO-Essentials)
 
-# HvH.gg CS:GO Essentials (1.0.0)
+# [HvH.gg](https://hvh.gg) CS:GO Essentials (1.0.0)
 
 Our CS:GO Essentials plugin is the only plugin you need to run a successful HvH server. It includes basic features like **reset score** and **rage quit** as well as optional restrictions for **untrusted angles**, **body lean/roll**, **extended angles**, **fake duck** and **ax**.
 
@@ -34,6 +34,7 @@ Our CS:GO Essentials plugin is the only plugin you need to run a successful HvH 
 - `hvh_restrict_ax 0/1 (default: 1)` - If enabled, players will be restricted from using AX.
 
 # Credits
+- [HvH.gg](https://hvh.gg)
 - [Metamod:Source](https://www.sourcemm.net/)
 - [Sourcemod](https://www.sourcemod.net/)
 - Others as mentioned in the source code
